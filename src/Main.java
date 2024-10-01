@@ -9,6 +9,6 @@ public class Main {
         monthlyInterest = creditBalance + monthlyInterest;
         monthlyInterest = monthlyInterest * INTEREST_RATE;
         System.out.println("Your month two balance is: " + monthlyInterest);
-        
+
     }
 }
